@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
+    padding-top: 25px;
+}
+.rowHeader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px; ;
+}
+.bigbox{
+    margin-top: 176px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.bigbox img{
+    width: 550px;
+    height: 494px;
+    margin-top:80px;
+}
+.kola h1{
+    width: 474px;
+    font-size: 64px;
+}
+.kola{
+    margin-left: 370px;
+}
+.kola p{
+    width: 464px;
+    font-size: 16px;
+    margin-top: 25px;
+}
+.kola button{
+    width: 193px;
+    height: 51px;
+    background-color: #0A775F;
+    border: none;
+    color: white;
+    border-radius: 100px;
+    margin-top: 60px;
+    font-size: 13px;
+}
+.lola{
+    background-color: #F3D7B7;
+}
+section h2{
+    text-align: center;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 40px;
+}
+.ikki{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.uch h1{
+
+    font-size: 48px;
+}
+.uch p{
+    width: 454px;
+    font-size: 22px;
+    color: #333333;
+}
+section h2{
+    text-align: center;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 40px;
+}
+.ikkii{
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.uchi h1{
+
+    font-size: 48px;
+}
+.uchi p{
+    width: 454px;
+    font-size: 22px;
+    color: #333333;
+}
+
+.ikkii img{
+    width: 451px;
+    height: 375px;
+}
+
+
+
+
+
+
+
+
